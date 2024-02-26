@@ -6,7 +6,7 @@ import {
   AlertLoading,
   AlertSuccess,
   AlertWarning,
-} from "../../components/alert/alert";
+} from "../../components/alert/Alert";
 import shoppingService from "../../services/shopping.services";
 import { Button, Form, Input, Select } from "antd";
 

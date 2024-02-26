@@ -22,7 +22,7 @@ import {
   AlertError,
   AlertSuccess,
   AlertWarning,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import useModalHook from "../../../hooks/useModalHook";
 import adminService from "../../../services/admin.services";
 import { URL_IMAGE, getRoleUser } from "../../../utils";

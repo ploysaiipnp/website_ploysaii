@@ -19,7 +19,7 @@ import {
   AlertLoading,
   AlertSuccess,
   AlertWarning,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import { Alert, Button } from "antd";
 const ShoppingCart = () => {
   const navigate = useNavigate();

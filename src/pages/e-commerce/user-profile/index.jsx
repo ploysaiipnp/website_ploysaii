@@ -2,7 +2,7 @@ import { Button, Col, Divider, Form, Input, Row } from "antd";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import CartPanel from "../../../components/CartPanel";
-import { AlertSuccess } from "../../../components/alert/alert";
+import { AlertSuccess } from "../../../components/alert/Alert";
 import shoppingService from "../../../services/shopping.services";
 import { getUserId } from "../../../utils";
 

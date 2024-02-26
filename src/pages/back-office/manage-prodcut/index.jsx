@@ -21,7 +21,7 @@ import {
   AlertConfirm,
   AlertError,
   AlertSuccess,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import { categoryOption } from "../../../constants/categoryOption";
 import { onUploadFile } from "../../../hooks/onUploadFIle";
 import useModalHook from "../../../hooks/useModalHook";

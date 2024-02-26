@@ -4,7 +4,7 @@ import {
   AlertClosed,
   AlertError,
   AlertLoading,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import adminService from "../../../services/admin.services";
 import { setRoleUser } from "../../../utils";
 import {

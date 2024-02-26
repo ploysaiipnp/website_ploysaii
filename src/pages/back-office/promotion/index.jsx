@@ -16,7 +16,7 @@ import {
   AlertError,
   AlertSuccess,
   AlertWarning,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import { disabledDate } from "../../../hooks/disableDate";
 import useModalHook from "../../../hooks/useModalHook";
 import adminService from "../../../services/admin.services";

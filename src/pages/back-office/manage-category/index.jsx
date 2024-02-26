@@ -17,7 +17,7 @@ import {
   AlertError,
   AlertSuccess,
   AlertWarning,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 import { onUploadFile } from "../../../hooks/onUploadFIle";
 import useModalHook from "../../../hooks/useModalHook";
 import useUploadFileHook from "../../../hooks/useUploadFileHook";

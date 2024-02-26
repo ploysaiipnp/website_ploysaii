@@ -8,7 +8,7 @@ import {
   AlertLoading,
   AlertSuccess,
   AlertWarning,
-} from "../../../components/alert/alert";
+} from "../../../components/alert/Alert";
 
 export const RegisterAdmin = () => {
   const navigate = useNavigate();

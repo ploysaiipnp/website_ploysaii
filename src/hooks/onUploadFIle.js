@@ -3,7 +3,7 @@ import {
   AlertClosed,
   AlertError,
   AlertLoading,
-} from "../components/alert/alert";
+} from "../components/alert/Alert";
 import { URL_API } from "../utils";
 
 export const onUploadFile = async ({ file }) => {
