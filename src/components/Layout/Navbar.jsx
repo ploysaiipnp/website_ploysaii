@@ -13,7 +13,7 @@ import {
   setUserId,
 } from "../../utils";
 import { web_logo } from "../../assets";
-import { AlertWarning } from "../alert/alert";
+import { AlertWarning } from "../alert/Alert";
 
 const text_left = "มีสินค้าหลากหลาย พร้อมโปรโมชั่นอีกมากมาย !!";
 
