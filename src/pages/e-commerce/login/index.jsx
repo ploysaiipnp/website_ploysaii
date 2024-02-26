@@ -8,7 +8,7 @@ import {
   AlertClosed,
   AlertError,
   AlertLoading,
-} from "../../../components/alert";
+} from "../../../components/alert/alert";
 import { add_item } from "../../../redux/reducers/cartSlice";
 import shoppingService from "../../../services/shopping.services";
 import {
